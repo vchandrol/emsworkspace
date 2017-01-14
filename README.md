@@ -1,2 +1,2 @@
 # emsworkspace
-emsworkspace
+emsworkspace : contains complete workspace
